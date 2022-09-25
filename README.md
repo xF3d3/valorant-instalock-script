@@ -1,7 +1,10 @@
 # valorant-instalock-script
-Agent Instalock Script for Valorant
+## This is a Free DEMO
+*instructions/contacts will be shown once you open the file.*
 
-instructions will be shown once you open the file.
+In this version the agent will be locked 15 seconds after the match found.
+### in the full version the agent will be locked immediatly
+If you wanna buy it contact me on Discord.
 
-Remember that this is a free DEMO, so the agent will be locked 15 seconds after the match found. 
-If you wanna buy it you can find my discord nickname in the file
+## A picture of my script
+![Script Picture](https://i.ibb.co/28gfVDg/immagine-2022-09-26-001912642.png)
